@@ -4,6 +4,7 @@
 #include "CLCD_interface.h"
 #include <util/delay.h>
 
+
 void main(void)
 {
 	PORT_voidInit();
